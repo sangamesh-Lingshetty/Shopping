@@ -1,0 +1,80 @@
+.logoimgs {
+  height: 113px;
+  width: 100%;
+}
+
+.bagicon {
+  font-size: 30px;
+  padding: 6px;
+}
+
+
+.cards {
+  width: 22%;
+  height: fit-content;
+  margin: 10px;
+
+}
+
+.CardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Bag {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-around;
+}
+
+.bagimg {
+  height: 316px;
+  width: 100%;
+}
+.bagcontainer{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bagbox{
+  margin-right: 40px;
+}
+.BagItemData{
+  display: flex;
+}
+.summarycard{
+  height: fit-content;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.myntra{
+  align-items: center;
+}
+.signup{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 30%;
+}
+.name{
+  flex-direction: column;
+  display: flex;
+  padding: 5px;
+  height: 74px;
+}
+input{
+  padding: 5px;
+  font-size: 17px;
+}
